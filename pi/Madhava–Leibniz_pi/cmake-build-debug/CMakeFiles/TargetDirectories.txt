@@ -1,0 +1,3 @@
+C:/Users/CNXTU/CLionProjects/pi/cmake-build-debug/CMakeFiles/pi.dir
+C:/Users/CNXTU/CLionProjects/pi/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/CNXTU/CLionProjects/pi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
