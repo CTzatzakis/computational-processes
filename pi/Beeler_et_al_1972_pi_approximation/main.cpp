@@ -1,9 +1,6 @@
 /*
  * The following 160 character C program, computes pi to 800 decimal digits.
  *
- * based on
- * pi = sum_(i = 0)^oo (1 16^i) ((4 8i + 1) - (2 8i + 4) - (1 8i + 5) - (1 8i + 6))
- * in O(N) time and O(log N) space.
  * */
 #include <stdio.h>
 
