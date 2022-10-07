@@ -1,3 +1,0 @@
-C:/Users/CNXTU/CLionProjects/Euler_pi/cmake-build-debug/CMakeFiles/Euler_pi.dir
-C:/Users/CNXTU/CLionProjects/Euler_pi/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/CNXTU/CLionProjects/Euler_pi/cmake-build-debug/CMakeFiles/rebuild_cache.dir
